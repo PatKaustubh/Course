@@ -1,0 +1,20 @@
+What are the key concepts you learnt from these courses
+You can choose one module from the list below:-
+1)Algorithm Analysis
+2)Divide and Conquer Algorithms
+3)Dynamic Programming
+
+Pawan Dubey
+Dynamic Programming
+Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Algorithm Analysis : 
+
+Algorithm analysis is an important part of computational complexity theory, which provides theoretical estimation for the 
+required resources of an algorithm to solve a specific computational problem. Analysis of algorithms is the determination 
+of the amount of time and space resources required to execute it.
+
+Main learnings were its types which are Best Case , Worst Case , Average Case algorithms.
+
+These algorithms help to predict the behavior of an algorithm without implementing it on a specific computer
+Also it is impossible to predict the exact behavior of an algorithm. There are too many influencing factors

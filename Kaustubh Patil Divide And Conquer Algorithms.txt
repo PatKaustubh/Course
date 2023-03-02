@@ -1,0 +1,26 @@
+What are the key concepts you learnt from these courses
+You can choose one module from the list below:-
+1)Algorithm Analysis
+2)Divide and Conquer Algorithms
+3)Dynamic Programming
+
+
+Pawan Dubey
+Dynamic Programming
+Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+2) Divide and Conquer Algorithms
+
+This technique has been divided into the following three parts:
+
+a) Divide: This involves dividing the problem into smaller sub-problems.
+b) Conquer: Solve sub-problems by calling recursively until solved.
+c) Combine: Combine the sub-problems to get the final solution of the whole problem.
+ 
+And the algorithms which fall under Divide and Conquer are:
+1) Quick Sort 
+2) Merge Sort
+3) Closest Pair of Points
+4) Starssen's Algorithm
+5) Cooley–Tukey Fast Fourier Transform (FFT) algorithm
+6) Karatsuba algorithm for fast multiplication 
